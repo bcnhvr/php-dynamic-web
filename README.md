@@ -18,3 +18,12 @@ A lightweight, clean PHP boilerplate designed for building fast, dynamic web app
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
+2. **Start the built-in PHP development server:**
+3. **View in browser:**
+Open `http://localhost:8000` in your web browser.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
